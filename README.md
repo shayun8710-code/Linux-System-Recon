@@ -15,5 +15,5 @@ It automates the process of gathering essential system information, which is a c
 ```bash
 chmod +x sys_recon.sh
 ./sys_recon.sh
-'''
+```
 <img width="932" height="859" alt="צילום מסך 2026-03-09 124919" src="https://github.com/user-attachments/assets/5d687be6-584f-40e2-bca6-2a45609a50c4" />
